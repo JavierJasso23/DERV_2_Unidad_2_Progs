@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693fc6ba3a6cc8548ba8db568498641b, type: 3}
+  m_Name: Dialogo Tarea
+  m_EditorClassIdentifier: 
+  mensaje:
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xBFEddy? \xBFQu\xE9 haces aqu\xED?"
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "\xBFNo lo sabes? \xBFTu sentido ar\xE1cnido ya no funciona \nbien Peter?"
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xBFDe qu\xE9 hablas Eddy?"
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "Ay, Peter, no tienes ni la m\xE1s m\xEDnima idea \xBFcierto? \n\xBFDe
+      verdad no puedes sentirlo? Como que algo falta \n\xBFNo crees? Una peque\xF1a
+      chica pelirroja."
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xBFMary Jane? \xBFQu\xE9 hiciste con ella Eddy? "
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "Oh, tranquilo Peter, ella est\xE1 bien\u2026 Por ahora"
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xBFQu\xE9 es lo que quieres Eddy? "
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "\xBFYo? Nosotros, queremos que te unas a nosotros otra \nvez Peter,
+      el te est\xE1 llamando, te necesita. "
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xBFVenom? \xBFEstas dejando qu\xE9 te controle de nuevo? "
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "\xBFControlarme? Por favor, Peter, \xE9l y yo somos uno \nsolo. Te
+      necesitamos para poder ser aun m\xE1s fuertes. \nSi te nos unes\u2026 Seremos
+      invencibles. "
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: "\xA1Jam\xE1s Eddy! Jam\xE1s me voy a unir a ustedes."
+  - personaje: {fileID: 11400000, guid: 5caa6ba44d49a274f94ab2dd4b339610, type: 2}
+    dialogo: "\xBFEst\xE1s seguro Peter? Aun recuerdas ese poder que se \nsiente
+      al tenerlo en ti \xBFverdad? La fuerza, la \nvelocidad, venga Peter tu sabes
+      que lo quieres."
+  - personaje: {fileID: 11400000, guid: 93ebad968a6e1154fa2eede94506e7fe, type: 2}
+    dialogo: No, basta Eddy, para.
